@@ -2,7 +2,7 @@
 # GitHub username: aubreyfloyd2
 # Date: 2/6/2023
 # Description: Recursive function that takes two positive integers as parameters and returns
-#              the product of those two numbers.
+#              the product of those two numbers
 
 def multiply(x, y):
     """Returns the product of two positive integers"""
